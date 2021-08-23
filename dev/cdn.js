@@ -5,6 +5,7 @@ document.write("<script src=\"https://code.jquery.com/jquery-3.5.1.js\">" + "<\/
 /* 以上為jQuery插入程式碼 */
 
 /* 以下為本cdn內容 */
+
 var ety = {
     empty: ""
 }
@@ -177,3 +178,5 @@ var bjs = {
         }
     }
 };
+
+/* 以上為本cdn內容 */
